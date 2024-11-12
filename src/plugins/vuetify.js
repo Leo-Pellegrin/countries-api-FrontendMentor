@@ -20,7 +20,7 @@ export default createVuetify({
       light: {
         primary: 'hsl(209, 23%, 22%)',
         secondary: 'hsl(0, 0%, 52%)',
-        background: 'hsl(0, 0%, 98%)',
+        background: '#FAFAFA',
         surface: 'hsl(0, 0%, 100%)',
         error: 'hsl(0, 100%, 50%)',
         info: 'hsl(200, 100%, 50%)',
