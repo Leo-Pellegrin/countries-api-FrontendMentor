@@ -52,11 +52,15 @@ If you’d like to run this project on your machine:
 5.	Open in your browser:
   - Go to http://localhost:3000 to view the app locally.
 
+---
+
 ## 🎨 Design
 
 The design was provided by [Frontend Mentor](https://www.frontendmentor.io/) and includes:
   - Mobile and desktop designs in both light and dark modes.
   - A style guide with fonts, colors, and spacing details.
+
+---
 
 ## 📝 Learnings
 
@@ -65,6 +69,8 @@ During this project, I gained experience in:
   2. Implementing a dark/light mode toggle using CSS variables and local storage.
   3. Structuring Vue.js components for scalability and reusability.
   4. Creating a responsive and accessible web application.
+
+---
 
 ## 🌟 Features in Detail
 
@@ -82,6 +88,8 @@ During this project, I gained experience in:
 4. **Navigation to Border Countries**
 	•	Displays clickable links to navigate to neighboring countries directly from the details page.
 
+---
+
 ## 🤝 Contributing
 
 If you’d like to contribute:
@@ -95,6 +103,8 @@ If you’d like to contribute:
    git commit -m "Add new feature"
    ```
 4. Push your branch and create a pull request.
+
+---
 
  ## 🙌 Acknowledgments
 
